@@ -1,5 +1,5 @@
 ## These functions are based on the samples given for the pogramming assignment 2 
-## in the R Programming course offered by RD Peng. 
+## in the R Programming course offered by R D Peng.
 
 ## The makeCacheMatrix function below creates a list of 
 ## functions to set & get values of a matrix  
